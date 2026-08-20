@@ -1,6 +1,7 @@
 # Compiled files
 adult
 hello
+atm
 *.o
 
 # VS Code settings
