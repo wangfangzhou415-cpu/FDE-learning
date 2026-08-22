@@ -23,7 +23,7 @@ int main (void)
 
 //因为平均分可能有小数，需要用float，average 函数名字，意思计算平均值，以后调用；
 //int length 数组长度，代表有几个成绩；int number[] 这是数组，Arrays,里面有哪些分数
-//在这个函数里就代表Average(3,scores) 第6行就是把长度3，成绩数组scores交给Average函数；
+//在这个函数里就代表Average(3,scores)；
 float average(int length,int numbers[])
 {
 //创建变量 sum表示总分，还没有加成绩，所以是0
