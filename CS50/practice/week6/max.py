@@ -7,8 +7,6 @@ def find_max(numbers):
             largest = number
             
     return(largest)
-       
 maximum = find_max(numbers)
-
 print(f"The maximum number is {maximum}")
 
